@@ -1,3 +1,7 @@
+## v0.0.22 - 2018-08-10
+
+- Initial commit
+
 ## v0.0.21 - 2018-04-13
 
 - Updates README
