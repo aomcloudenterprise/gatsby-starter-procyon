@@ -2,13 +2,8 @@
   "name": "gatsby-starter-procyon",
   "description": "An opinionated Gatsby starter designed for trash-eating pandas.",
   "version": "0.0.21",
-  "author": "Daniel Mahon <daniel@mahonstudios.com>",
+  "author": "Danklut <aomcloudenterprise@outlook.com>',
   "dependencies": {
-    "apollo-cache-inmemory": "1.1.12",
-    "apollo-client": "2.2.8",
-    "apollo-link-context": "1.0.7",
-    "apollo-link-http": "1.5.3",
-    "apollo-link-state": "0.4.1",
     "draft-convert": "2.0.1",
     "draftjs-md-converter": "0.1.7",
     "gatsby": "1.9.246",
@@ -64,10 +59,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielmahon/gatsby-starter-procyon.git"
+    "url": "git+https://github.com/aomcloudenterprise/gatsby-starter-procyon.git"
   },
   "bugs": {
-    "url": "https://github.com/danielmahon/gatsby-starter-procyon/issues"
+    "url": "https://github.com/aomcloudenterprise/gatsby-starter-procyon/issues"
   },
-  "homepage": "https://github.com/danielmahon/gatsby-starter-procyon#readme"
+  "homepage": "https://github.com/aomcloudenterprise/gatsby-starter-procyon#readme"
 }
